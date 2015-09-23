@@ -9,5 +9,5 @@ KolodaSlideView 完全兼容 Swift2.0
 
 ![pic2](https://github.com/justinjing/KolodaSlideView/blob/master/Koloda_v2_example_animation.gif)
 
-[**原链接**] [linkid]
+[**原文链接**] [linkid]
 [linkid]:https://github.com/Yalantis/Koloda
